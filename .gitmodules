@@ -1,0 +1,3 @@
+[submodule "i18n/account/TestFolder/smoke-test"]
+	path = i18n/account/TestFolder/smoke-test
+	url = https://github.com/Git-Mani/smoke-test
