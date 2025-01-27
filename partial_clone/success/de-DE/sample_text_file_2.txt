@@ -1,0 +1,1 @@
+Beispieltextdatei 2: Hier ist ein Text für die zweite Datei.
