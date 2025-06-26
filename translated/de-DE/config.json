@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "Willkommen bei unserer Anwendung",
+    "subtitle": "Verwalten Sie Ihre Projekte effizient"
+  },
+  "buttons": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "submit": "Senden"
+  },
+  "login": {
+    "title": "Anmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "loginButton": "Anmelden",
+    "error": "Benutzername oder Kennwort ungültig"
+  },
+  "dashboard": {
+    "title": "Armaturenbrett",
+    "welcome": "Willkommen, {{Name}}!",
+    "stats": {
+      "users": "Benutzer Gesamt: {{count}}",
+      "projects": "Aktive Projekte: {{count}}"
+    }
+  },
+  "errors": {
+    "404": "Seite nicht gefunden",
+    "500": "Interner Serverfehler"
+  }
+}
