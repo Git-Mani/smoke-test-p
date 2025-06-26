@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "Welcome to Our Application",
+    "subtitle": "Manage your projects efficiently"
+  },
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "submit": "Submit"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "error": "Invalid username or password"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome, {{name}}!",
+    "stats": {
+      "users": "Total Users: {{count}}",
+      "projects": "Active Projects: {{count}}"
+    }
+  },
+  "errors": {
+    "404": "Page not found",
+    "500": "Internal server error"
+  }
+}
