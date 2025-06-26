@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "Bienvenue dans notre application",
+    "subtitle": "Gérez vos projets efficacement"
+  },
+  "buttons": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "submit": "Soumettre"
+  },
+  "login": {
+    "title": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "loginButton": "Connexion",
+    "error": "Nom d'utilisateur ou mot de passe non valide"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue, {{name}} !",
+    "stats": {
+      "users": "Nombre total d'utilisateurs : {{count}}",
+      "projects": "Projets actifs : {{count}}"
+    }
+  },
+  "errors": {
+    "404": "Page introuvable",
+    "500": "Erreur interne du serveur"
+  }
+}
