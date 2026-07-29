@@ -1,0 +1,6 @@
+{
+  "externalConfigEnabled": true,
+  "fileExtensions": {
+    "exclude": [".yml"]
+  }
+}
