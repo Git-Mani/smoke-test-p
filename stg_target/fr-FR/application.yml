@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: stg-test-app
+  datasource:
+    url: jdbc:mysql ://localhost :3306/stg_database
+    username: racine
+    password: mot de passe
+    driver-class-name: COM.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: mise à jour
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: Org.hibernate.dialect.MySQL8Dialect
