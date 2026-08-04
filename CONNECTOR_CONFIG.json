@@ -1,7 +1,7 @@
 {
-  "externalConfigEnabled": false,
+  "externalConfigEnabled": true,
   "fileExtensions": {
     "exclude": []
   },
-  "forceTranslateAll": true
+  "forceTranslateAll": false
 }
